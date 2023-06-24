@@ -1,4 +1,4 @@
 echo "How are you"
 echo "hello"
-$(uptime)
+echo "time is `uptime`"
 echo "tree"
