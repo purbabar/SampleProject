@@ -1,2 +1,2 @@
-echo "time is `uptime`"
+echo "time are `uptime`"
 echo "hello again"
